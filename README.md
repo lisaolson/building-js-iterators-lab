@@ -1,3 +1,11 @@
+# Lisa Olson
+
+## Link to repo
+    https://github.com/lisaolson/building-js-iterators-lab.git
+
+### Reflection
+    The iterators were difficult to understand. I had a hard time grasping the concept of what we were trying to accomplish. However, once I was able to grasp the concept and complete the first one, the others were easier to complete.  
+
 <!--
  location: SF
 -->
